@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Pedro G. Rodriguez-Menicucci 👋
 
 Senior Data & Financial Systems Engineer | Master of Science in FinTech | PSPO I
 
