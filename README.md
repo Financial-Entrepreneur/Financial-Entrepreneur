@@ -4,7 +4,6 @@ Senior Data & Financial Systems Engineer | Master of Science in FinTech | PSPO I
 
 <p align="left">
   <a href="https://linkedin.com/in/rodriguez-menicucci"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Financial-Entrepreneur"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -61,6 +60,6 @@ Senior Data & Financial Systems Engineer | Master of Science in FinTech | PSPO I
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Financial-Entrepreneur&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Financial-Entrepreneur&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
